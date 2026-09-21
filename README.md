@@ -29,7 +29,7 @@ The standard canonical Sum-of-Products (SOP) expressions for outputs $a$ through
 │   └── kmap_derivations.pdf      # Complete K-map minimization proofs
 └── images/
     └── breadboard_testing.jpg    # Hardware verification photo
-
+```
 ---
 
 ## Hardware Validation & Visuals
