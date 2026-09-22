@@ -74,19 +74,19 @@ All outputs were minimized using 3-variable Karnaugh Maps ($A, B, C$) in Sum-of-
 
 | Segment A | Segment B |
 | :---: | :---: |
-| <img src="images/KmapA.png" width="350" alt="Segment A K-Map"> | <img src="images/KmapB.png" width="350" alt="Segment B K-Map"> |
+| <img src="KmapA.png" width="350" alt="Segment A K-Map"> | <img src="KmapB.png" width="350" alt="Segment B K-Map"> |
 
 | Segment C | Segment D |
 | :---: | :---: |
-| <img src="images/KmapC.png" width="350" alt="Segment C K-Map"> | <img src="images/KmapD.png" width="350" alt="Segment D K-Map"> |
+| <img src="KmapC.png" width="350" alt="Segment C K-Map"> | <img src="KmapD.png" width="350" alt="Segment D K-Map"> |
 
 | Segment E | Segment F |
 | :---: | :---: |
-| <img src="images/KmapE.png" width="350" alt="Segment E K-Map"> | <img src="images/KmapF.png" width="350" alt="Segment F K-Map"> |
+| <img src="KmapE.png" width="350" alt="Segment E K-Map"> | <img src="KmapF.png" width="350" alt="Segment F K-Map"> |
 
 | Segment G |
 | :---: |
-| <img src="images/KmapG.png" width="350" alt="Segment G K-Map"> |
+| <img src="KmapG.png" width="350" alt="Segment G K-Map"> |
 
 </div>
 
