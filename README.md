@@ -49,8 +49,13 @@ The optimized structural Verilog design was physically implemented on a breadboa
 All outputs were minimized using 3-variable Karnaugh Maps ($A, B, C$) in Sum-of-Products (SOP) form before hardware assembly.
 
 <p align="center">
-  <img src="images/kmap_preview.png" width="600" alt="K-Map Derivations Preview">
+  <img src="images/KmapA.png" width="600" alt="K-Map Derivations Preview">
   <br>
+    
+<p align="center">
+  <img src="images/KmapB.png" width="600" alt="K-Map Derivations Preview">
+  <br>
+        
   <em>Figure 2: Handwritten Karnaugh Map derivations showing minimal prime implicants. Full derivation sheet available in <code>docs/kmap_derivations.pdf</code>.</em>
 </p>
 
