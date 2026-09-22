@@ -48,7 +48,7 @@ The standard canonical Sum-of-Products (SOP) expressions for outputs `a` through
 The optimized structural Verilog design was physically implemented on a breadboard using 7400-series TTL logic ICs and validated across all decimal inputs (0 through 7).
 
 <p align="center">
-  <img src="images/breadboard_testing.png" width="550" alt="Breadboard Hardware Validation">
+  <img src="cmpe212Board.jpg" width="550" alt="Breadboard Hardware Validation">
   <br>
   <em>Figure 1: Physical TTL hardware implementation driven by DIP switch inputs and validated on a common-anode 7-segment display.</em>
 </p>
